@@ -5,8 +5,8 @@ Jordan Taqi-Eddin - jgte29@berkeley.edu; GitHub: jgte29
 
 Samantha Wu - samanthawu@berkeley.edu; GitHub: wusamantha
 
-Kimberley Fan - kimberley.fan123@berkeley.edu; GitHub: 
+Kimberley Fan - kimberley.fan123@berkeley.edu; GitHub: kimberleyfan
 
-Taylor Lacey - taylorlacey@berkeley.edu; GitHub: 
+Taylor Lacey - taylorlacey@berkeley.edu; GitHub: tlacey17
 
-Bolor Erdene-Ochir - bolorerdene@berkeley.edu; GitHub: 
+Bolor Erdene-Ochir - bolorerdene@berkeley.edu; GitHub: bolorerdene
