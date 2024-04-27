@@ -53,9 +53,9 @@ Welcome to the Project 04 GitHub Repository for Team Harvey Wiley. Our code for 
 
 ### Notebook Specific Notes:
 1. master_notebook.ipynb:
-      - To test the functionality of all our code, only this notebook needs to be run. If it works, it indicates that all of the code in the other notebooks are properly running.
-      - Understanding Nutritional Adequacy
-         - We choose to adopt a nuanced approach to examing Nutritional Adequacy in our project. The best way to explain our approach is through an example. Suppose we have the following nutritional requirements and consumption data for some arbitrary household.
+   - To test the functionality of all our code, only this notebook needs to be run. If it works, it indicates that all of the code in the other notebooks are properly running.
+   - Understanding Nutritional Adequacy
+      - We choose to adopt a nuanced approach to examing Nutritional Adequacy in our project. The best way to explain our approach is through an example. Suppose we have the following nutritional requirements and consumption data for some arbitrary household.
 
 | **Nutrient** | A | B | C | D | Adequacy Share
 |:-----------:|:----------:|:-----------:|:----------:|:-----------:|:-----------:|
