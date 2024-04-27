@@ -29,10 +29,32 @@ Welcome to the Project 04 GitHub Repository for Team Harvey Wiley. Our code for 
    git clone https://github.com/jgte29/team-harvey-wiley-proj04.git
    ```
 
+### General Usage Notes:
+1. Updating Notebook:
+   - If you make changes locally to your version of the notebook, you will need to manually update the notebook via the following steps
+       i) Uncomment the code in the cell below and run it.
+       ii) Restart the notebook's kernel.
+       iii) Refresh the page. <br>
+       **Warning** - Make sure that the aforementioned code is commented once you successfully updated the notebook.
+        ```python
+        ### Uncomment this code to manually update the notebook
+        # !git reset --hard origin/main
+        ```
+2. Loading in Packages:
+   - If need be, you may need to load in some python packages to run all of the code successfully. You can do so via the following steps:
+       i) Uncomment the code in the cell below and run it.
+       ii) Restart the notebook's kernel.
+       iii) Refresh the page. <br>
+       **Tip** - It may be helpful to comment out the code below once you successfully load in the packages.
+        ```python
+        ### Uncomment this code to load in the packages
+        # !pip install -r requirements.txt
+        ```
+
 ### Notebook Specific Notes:
-- master_notebook.ipynb:
-     1) To test the functionality of all our code, only this notebook needs to be run. If it works, it indicates that all of the code in the other notebooks are properly running.
-     2) Understanding Nutritional Adequacy
+1. master_notebook.ipynb:
+     i) To test the functionality of all our code, only this notebook needs to be run. If it works, it indicates that all of the code in the other notebooks are properly running.
+     ii) Understanding Nutritional Adequacy
 We choose take adopted a nuanced approach to examing Nutritonal Adequacy in our project. The best way to explain our approach is through an example. Suppose we have the following nutritional requirements and consumption data for some arbitrary household.
 
 | **Nutrient** | A | B | C | D | Adequacy Share
