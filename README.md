@@ -67,12 +67,12 @@ Welcome to the Project 04 GitHub Repository for Team Harvey Wiley. Our code for 
 
    As we see in the able above, Adequacy Share at some Adequacy Level $\alpha$ is the proportion of nutrients for which a housholds total intake of the nutrient is greater than or equal to $\alpha$. <br>
       
-      - Seaborn Error:
-         - If you are getting the following error: `No such keys(s): ‘mode.use_inf_as_null`:
-             i) Uncomment the code in the cell below and run it.
-             ii) Restart the notebook's kernel.
-             iii) Refresh the page. <br>
-             **Warning** - Make sure that the aforementioned code is commented once you successfully updated the notebook.
+   - Seaborn Error:
+      - If you are getting the following error: `No such keys(s): ‘mode.use_inf_as_null`:
+          i) Uncomment the code in the cell below and run it.
+          ii) Restart the notebook's kernel.
+          iii) Refresh the page. <br>
+          **Warning** - Make sure that the aforementioned code is commented once you successfully updated the notebook.
              
               ```python
               ### Uncomment this code
