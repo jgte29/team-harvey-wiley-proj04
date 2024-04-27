@@ -53,9 +53,9 @@ Welcome to the Project 04 GitHub Repository for Team Harvey Wiley. Our code for 
 
 ### Notebook Specific Notes:
 1. master_notebook.ipynb:
-     i) To test the functionality of all our code, only this notebook needs to be run. If it works, it indicates that all of the code in the other notebooks are properly running.
-     ii) Understanding Nutritional Adequacy
-We choose take adopted a nuanced approach to examing Nutritonal Adequacy in our project. The best way to explain our approach is through an example. Suppose we have the following nutritional requirements and consumption data for some arbitrary household.
+      - To test the functionality of all our code, only this notebook needs to be run. If it works, it indicates that all of the code in the other notebooks are properly running.
+      - Understanding Nutritional Adequacy
+         - We choose to adopt a nuanced approach to examing Nutritional Adequacy in our project. The best way to explain our approach is through an example. Suppose we have the following nutritional requirements and consumption data for some arbitrary household.
 
 | **Nutrient** | A | B | C | D | Adequacy Share
 |:-----------:|:----------:|:-----------:|:----------:|:-----------:|:-----------:|
@@ -65,4 +65,14 @@ We choose take adopted a nuanced approach to examing Nutritonal Adequacy in our 
 | **75% Adequacy** | $\times$ | | $\times$ | | 0.50 |
 | **50% Adequacy** | $\times$ | $\times$ | $\times$ | | 0.75 |
 
-As we see in the able above, Adequacy Share at some Adequacy Level $\alpha$ is the proportion of nutrients for which a housholds total intake of the nutrient is greater than or equal to $\alpha$.
+   As we see in the able above, Adequacy Share at some Adequacy Level $\alpha$ is the proportion of nutrients for which a housholds total intake of the nutrient is greater than or equal to $\alpha$.
+      - Seaborn Error:
+         - If you are getting the following error: `No such keys(s): ‘mode.use_inf_as_null`:
+             i) Uncomment the code in the cell below and run it.
+             ii) Restart the notebook's kernel.
+             iii) Refresh the page. <br>
+             **Warning** - Make sure that the aforementioned code is commented once you successfully updated the notebook.
+              ```python
+              ### Uncomment this code
+              # ! pip install --upgrade seaborn
+              ```
