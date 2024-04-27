@@ -74,7 +74,7 @@ Welcome to the Project 04 GitHub Repository for Team Harvey Wiley. Our code for 
              iii) Refresh the page. <br>
              **Warning** - Make sure that the aforementioned code is commented once you successfully updated the notebook.
                 
-                 ```python
-                 ### Uncomment this code
-                 # ! pip install --upgrade seaborn
-                 ```
+                    ```python
+                    ### Uncomment this code
+                    # ! pip install --upgrade seaborn
+                    ```
