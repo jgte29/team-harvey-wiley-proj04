@@ -66,6 +66,7 @@ Welcome to the Project 04 GitHub Repository for Team Harvey Wiley. Our code for 
 | **50% Adequacy** | $\times$ | $\times$ | $\times$ | | 0.75 |
 
       As we see in the able above, Adequacy Share at some Adequacy Level $\alpha$ is the proportion of nutrients for which a housholds total intake of the nutrient is greater than or equal to $\alpha$. <br>
+      
       - Seaborn Error:
          - If you are getting the following error: `No such keys(s): ‘mode.use_inf_as_null`:
              i) Uncomment the code in the cell below and run it.
