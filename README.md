@@ -20,6 +20,7 @@ Welcome to the Project 04 GitHub Repository for Team Harvey Wiley. Our code for 
 - demand.ipynb: In this notebook, we examine a system of demands for various food products, and examine heterogeneity in household consumption.
 - nutrient_system.ipynb: In this notebook, we explore how demands for various quantities can be expressed as functions of prices, budgets, and household characteristics. Then, illustrate how these quantities can be translated into nutritional components.
 - cost_experiments.ipynb: In this notebook, we explore the relationship between costs, budgets, & consumption.
+- unit_tests.ipynb: In this notebook, we perform the unit tests for select functions in our analysis.
 
 ## How to Use
 1. Option A: Access Our Repository Via DataHub (*Highly Recommended*)
